@@ -12,3 +12,11 @@
 2026-10-06 10:10:14,107 - root - INFO - Deleting expense: id=None, date=2026-10-06, category=Transport
 2026-10-06 10:10:16,066 - root - INFO - Adding expense: amount=100.0, category=Transportation, subcategory=Fuel, date=2026-10-06, description=Petrol
 2026-10-06 10:10:18,930 - root - INFO - Getting expenses: category=None, subcategory=None, date=2026-10-06
+2026-10-06 10:53:24,211 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 10:53:24,253 - asyncio - DEBUG - Using selector: KqueueSelector
+2026-10-06 10:53:24,311 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager started
+2026-10-06 10:53:38,703 - mcp.server.streamable_http_manager - INFO - StreamableHTTP session manager shutting down
+2026-10-06 10:54:18,202 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 10:54:23,809 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 10:54:23,863 - mcp.server.runner - DEBUG - no handler for notification notifications/initialized
+2026-10-06 10:54:27,213 - root - INFO - Getting expenses: category=None, subcategory=None, date=None

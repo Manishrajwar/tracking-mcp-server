@@ -150,4 +150,5 @@ def get_categories():
 
 
 if __name__ == "__main__":
-    mcp.run()
+    # mcp.run()
+    mcp.run(transport="http", port=9000 , host="0.0.0.0")
