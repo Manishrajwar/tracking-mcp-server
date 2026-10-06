@@ -5,7 +5,6 @@ import sqlite3
 import logging
 
 logging.basicConfig(
-    filename=os.path.join(os.path.dirname(__file__), "expense_tracker.log"),
     level=logging.DEBUG, 
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
