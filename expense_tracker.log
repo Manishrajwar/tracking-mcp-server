@@ -20,3 +20,6 @@
 2026-10-06 10:54:23,809 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
 2026-10-06 10:54:23,863 - mcp.server.runner - DEBUG - no handler for notification notifications/initialized
 2026-10-06 10:54:27,213 - root - INFO - Getting expenses: category=None, subcategory=None, date=None
+2026-10-06 11:01:02,685 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 11:01:03,877 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 11:01:03,926 - mcp.server.runner - DEBUG - no handler for notification notifications/initialized
