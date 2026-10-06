@@ -1,0 +1,92 @@
+{
+  "Food & Dining": [
+    "Groceries",
+    "Restaurants",
+    "Fast Food",
+    "Coffee & Tea",
+    "Food Delivery"
+  ],
+  "Transportation": [
+    "Fuel",
+    "Public Transport",
+    "Taxi & Cab",
+    "Parking",
+    "Vehicle Maintenance"
+  ],
+  "Shopping": [
+    "Clothing",
+    "Electronics",
+    "Personal Care",
+    "Home Shopping",
+    "Other Shopping"
+  ],
+  "Housing": [
+    "Rent",
+    "Electricity",
+    "Water",
+    "Gas",
+    "Internet",
+    "Home Maintenance"
+  ],
+  "Health & Medical": [
+    "Medicines",
+    "Doctor",
+    "Hospital",
+    "Health Insurance",
+    "Dental"
+  ],
+  "Entertainment": [
+    "Movies",
+    "Games",
+    "Subscriptions",
+    "Events",
+    "Hobbies"
+  ],
+  "Travel": [
+    "Flights",
+    "Hotels",
+    "Local Transport",
+    "Travel Food",
+    "Travel Activities"
+  ],
+  "Education": [
+    "Courses",
+    "Books",
+    "Tuition",
+    "Certifications",
+    "Study Materials"
+  ],
+  "Personal": [
+    "Haircut",
+    "Gym",
+    "Laundry",
+    "Gifts",
+    "Other Personal"
+  ],
+  "Bills & Utilities": [
+    "Mobile",
+    "Internet",
+    "Electricity",
+    "Water",
+    "Gas",
+    "Subscriptions"
+  ],
+  "Financial": [
+    "Bank Fees",
+    "Loan Payment",
+    "Credit Card Payment",
+    "Investment",
+    "Insurance"
+  ],
+  "Family": [
+    "Parents",
+    "Children",
+    "Family Shopping",
+    "Family Medical",
+    "Family Travel"
+  ],
+  "Other": [
+    "Miscellaneous",
+    "Uncategorized"
+  ]
+}

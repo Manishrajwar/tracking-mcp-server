@@ -1,0 +1,14 @@
+2026-10-06 10:05:28,148 - root - INFO - Getting expenses: category=None, subcategory=None, date=None
+2026-10-06 10:06:23,136 - root - INFO - Adding expense: amount=100.0, category=transport, subcategory=petrol, date=06-10-2026, description=Petrol
+2026-10-06 10:07:03,748 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 10:07:04,806 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 10:07:04,851 - mcp.server.runner - DEBUG - no handler for notification notifications/initialized
+2026-10-06 10:07:33,537 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 10:07:34,545 - mcp.server.lowlevel.server - DEBUG - Initializing server 'expenseTracker'
+2026-10-06 10:07:34,588 - mcp.server.runner - DEBUG - no handler for notification notifications/initialized
+2026-10-06 10:07:48,077 - root - INFO - Adding expense: amount=100.0, category=Transport, subcategory=Petrol, date=2026-10-06, description=Petrol
+2026-10-06 10:09:57,379 - root - DEBUG - Fetching categories resource
+2026-10-06 10:10:05,131 - root - INFO - Getting expenses: category=None, subcategory=None, date=2026-10-06
+2026-10-06 10:10:14,107 - root - INFO - Deleting expense: id=None, date=2026-10-06, category=Transport
+2026-10-06 10:10:16,066 - root - INFO - Adding expense: amount=100.0, category=Transportation, subcategory=Fuel, date=2026-10-06, description=Petrol
+2026-10-06 10:10:18,930 - root - INFO - Getting expenses: category=None, subcategory=None, date=2026-10-06
